@@ -5,3 +5,7 @@ Can be found here with 350+ users!
 21 5 star Reviews! :O
 
 https://chrome.google.com/webstore/detail/runescape-music/kccepmfokncobipneegebeiggcfjbccg
+
+planned changed:
+add song name once play button is hit.
+look into randomness
